@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/05/16 09:35:31.880,C:\Testes\DLL\LibTEST.dproj=C:\Projetos\Project1.dproj</Transaction>
+    <Transaction>2018/05/16 10:06:21.742,=C:\Testes\DLL\Unit2.pas</Transaction>
+    <Transaction>2018/05/16 10:06:44.050,C:\Testes\DLL\DataLocal.dfm=C:\Testes\DLL\Unit2.dfm</Transaction>
+    <Transaction>2018/05/16 10:06:44.050,C:\Testes\DLL\DataLocal.pas=C:\Testes\DLL\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
